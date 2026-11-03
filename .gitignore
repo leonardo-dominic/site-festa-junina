@@ -1,0 +1,17 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores de código
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Arquivos compactados
+*.zip
+*.rar
